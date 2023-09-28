@@ -27,3 +27,7 @@ npm install
 ### Depois
 
 npm start
+
+## Lembre-se
+
+não carregar a pasta node_modules nem o arquivo REDIME_md
